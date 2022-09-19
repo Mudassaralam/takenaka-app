@@ -1,0 +1,32 @@
+#myprofile{
+    width: 83%;
+    background-color: #F2F4F7;
+    float: right;
+    margin-top: 60px;
+    padding: 30px;
+    /* height: 5000px;  */
+}
+
+.FormDiv1{
+    display: flex !important;
+    flex-direction: row !important;
+    gap: 20px;
+    justify-content: left;
+    flex-wrap: wrap;
+}
+.form-label{
+    margin-top: 10px;
+    border: 1px solid #979797;
+    background-color: white;
+    padding: 5px;
+    border-radius: 5px ;
+}
+.form-control{
+    margin-top: 5px;
+    width: 100% !important;
+    margin-bottom: 20px;
+}
+
+.button{
+    display: block;
+}

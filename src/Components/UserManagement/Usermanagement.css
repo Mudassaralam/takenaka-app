@@ -1,0 +1,109 @@
+#Usermanagment{
+    width: 83%;
+    background-color: #F2F4F7;
+    float: right;
+    margin-top: 60px;
+    padding: 30px;
+    /* height: 5000px;  */
+    
+}
+.button-add{
+    margin-left: auto;
+    padding-right: 20px;
+}
+#table-div{
+    background-color: white;
+    border-radius: 5px;
+    padding: 20px;
+}
+@media (min-width: 1200px) {
+    #Usermanagment{
+        width: 83%;
+    }
+
+ }
+ @media (min-width: 992px) and (max-width: 1199.98px) { 
+    #Usermanagment{
+        width: 83%;
+    }
+  }
+  @media (min-width: 768px) and (max-width: 991.98px) { 
+    #Usermanagment{
+        width: 83%;
+    }
+   }
+   @media (min-width: 576px) and (max-width: 767.98px) { 
+    #Usermanagment{
+        width: 40%;
+    }
+    }
+
+    .Deactive{
+        background-color: #dc3545;
+        color: white;
+        text-align: center;
+        cursor: pointer;
+        border-radius: 5px;
+        padding: 5px;
+    }
+    .Active{
+        background-color: #dcd935;
+        color: white;
+        text-align: center;
+        cursor: pointer;
+        border-radius: 5px;
+        padding: 5px;
+        
+    }
+
+    .updatebtn{
+        background-color: #e99a23;
+        color: white;
+        text-align: center;
+        cursor: pointer;
+        border-radius: 5px;
+        padding: 5px;
+    }
+.Yess{
+    background-color: green;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 5px;
+    
+}
+.No{
+    background-color: rgb(3, 53, 110);
+    color: white;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.formcheckbox{
+    display: flex;
+    
+}
+.mainCheckBoxDiv{
+    text-align: center;
+}
+.AllCheckBox{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#checkbox{
+    margin-top: 0px; 
+    width: 10% !important; 
+     margin-bottom: 0px;
+}
+#checkbox2{
+    margin-top: 0px; 
+    width: 10% !important; 
+     margin-bottom: 0px;
+}
+#checkbox3{
+    margin-top: 0px; 
+    width: 10% !important; 
+     margin-bottom: 0px;
+}

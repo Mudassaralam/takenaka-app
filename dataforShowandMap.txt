@@ -1,0 +1,15 @@
+for (let i = 0; i < branches.length; i++) {
+      arr.push(branches[i].value);
+    }
+
+
+
+ if (e.target.checked === true) {
+      arr.push(e.target.value);
+    } else {
+      var myIndex = arr.indexOf(e.target.value);
+      if (myIndex !== -1) {
+        arr.splice(myIndex, 1);
+      }
+    }
+    console.log(arr, "ahm");

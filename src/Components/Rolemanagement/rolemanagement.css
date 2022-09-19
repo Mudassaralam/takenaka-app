@@ -1,0 +1,17 @@
+#Usermanagment{
+    width: 83%;
+    background-color: #F2F4F7;
+    float: right;
+    margin-top: 60px;
+    padding: 30px;
+    /* height: 5000px;  */
+}
+.button-add{
+    margin-left: auto;
+    padding-right: 20px;
+}
+#table-div{
+    background-color: white;
+    border-radius: 5px;
+    padding: 20px;
+}

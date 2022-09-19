@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#Nav-Header{
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+    background-color: #FFFFFF !important;
+    /* margin-top: 5px; */
+    /* width: 100% !important; */
+    /* position: fixed; */
+    /* position: absolute; */
+    
+    z-index: 1;
+}
+.logo{
+    width: 170px;
+    padding-left: 20px;
+    margin-right: auto;
+    cursor: pointer;
+    height: 32px;
+    padding-top: 5px;
+}
+#Fa-icon{
+    padding-left: 10px;
+    font-size: 27px;
+    color: #B1C3C8;
+    cursor: pointer;
+}
+#DropDown{
+    margin-right: 80px;
+    /* padding: 5px;  */
+    /* background-color: rgb(245, 245, 245); */
+    /* padding-top: 8px ;
+    padding-bottom: 8px ; */
+    /* border-radius: 20px; */
+    
+}

@@ -1,0 +1,13 @@
+#mainprofile{
+    width: 83%;
+    background-color: #F2F4F7;
+    float: right;
+    margin-top: 60px;
+    padding: 30px;
+    /* height: 5000px;  */
+}
+.tabsbutton{
+    border: 2px solid black;
+    margin: 5px;
+    margin-bottom: 10px;
+}

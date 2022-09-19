@@ -1,0 +1,19 @@
+.maincontainer{
+    width: 83%;
+    background-color: #F2F4F7;
+    float: right;
+    margin-top: 60px;
+    padding: 30px;
+}
+.formdiv{
+    display: flex !important;
+    flex-direction: row !important;
+    gap: 20px;
+    justify-content: left;
+    flex-wrap: wrap;
+}
+input{
+    margin-top: 5px;
+    width: 100% !important;
+    margin-bottom: 20px;
+}
